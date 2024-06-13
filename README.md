@@ -24,3 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## show you how to add git commit
+
+## im making this cahgen from pbranch home
