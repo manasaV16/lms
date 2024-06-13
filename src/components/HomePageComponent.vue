@@ -42,7 +42,7 @@ export default {
 
 .img-logo {
     max-width: 150px;
-    /* Adjust maximum width for your logo */
+   
     height: auto;
     padding-top: 10%;
 }
